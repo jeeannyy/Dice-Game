@@ -1,2 +1,6 @@
-# dice-game
-dice-game JS
+# Dice Game
+Dice game made with Vanilla JS
+
+
+
+
