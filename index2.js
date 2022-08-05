@@ -9,8 +9,6 @@ const randomImage = "dice" + randomNumber1 + ".png";
 const randomImageSrc = "images/" + randomImage;
 
 const player1 = document.querySelectorAll("img")[0].setAttribute("src", randomImageSrc);
-// 우선 엘리먼트를 선택해야함, 그 다음에 바꿔줌  + (img 2개 중 첫 번째 img니까)
-
 
 //Second player setting
 const randomNumber2 = Math.floor(Math.random() * 6) + 1; 
